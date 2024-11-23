@@ -82,6 +82,8 @@ high-resolution images, object recognition, and distance are required, and data 
 
 [driving video] https://drive.google.com/file/d/1UK55tGkfZkpgTms5ZBL82xMa6pkb9Pki/view?usp=drive_link
 
+[verification file] https://drive.google.com/drive/folders/1-1b3j8pdLvy9TnfkCcut5nrK5Nip7-Co?usp=drive_link
+
     - I adjusted it to a size of 640X640 for training data extraction
 
 [Video Size Edit Site] https://www.adobe.com/kr/express/feature/video/resize
